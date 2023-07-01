@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T06:53:36.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="t815pLe0Q0-BjHf8xzr1" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T07:36:50.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0-B-nU9hN4MpadH6EF3W" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2783" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -240,7 +240,7 @@
         <mxCell id="7p6_Zu2bMeGWk3Idg1JW-44" value="Classified &lt;br style=&quot;font-size: 14px;&quot;&gt;pixels/regions &lt;br style=&quot;font-size: 14px;&quot;&gt;of Turbid water" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="1670" width="176.5" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="7p6_Zu2bMeGWk3Idg1JW-46" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Resized Satellite&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Image Bands&lt;/span&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7p6_Zu2bMeGWk3Idg1JW-46" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Resized hyperspectral&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Image Bands&lt;/span&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="376.33000000000004" y="1440" width="126" height="73" as="geometry" />
         </mxCell>
         <mxCell id="7p6_Zu2bMeGWk3Idg1JW-47" value="Testing classification &lt;br style=&quot;font-size: 14px;&quot;&gt;results @multiple&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;max angles&amp;nbsp;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
