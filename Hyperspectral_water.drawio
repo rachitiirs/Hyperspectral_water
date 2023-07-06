@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T06:50:31.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ahf283xF8G_aJpmidonf" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T07:21:31.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bfCSji6KMe5Ssrscfjsq" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1707" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3027" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -361,6 +361,11 @@
         <mxCell id="7p6_Zu2bMeGWk3Idg1JW-68" value="Classified &lt;br style=&quot;font-size: 14px;&quot;&gt;pixels/regions &lt;br style=&quot;font-size: 14px;&quot;&gt;of Turbid water" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="372.5" y="3040" width="190.5" height="93" as="geometry" />
         </mxCell>
+        <mxCell id="JG0KWMFdaKMmzDdm7brY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7p6_Zu2bMeGWk3Idg1JW-69" target="JG0KWMFdaKMmzDdm7brY-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="2792.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7p6_Zu2bMeGWk3Idg1JW-69" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Resized Satellite&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Image Bands&lt;/span&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392.5" y="2738" width="165" height="109" as="geometry" />
         </mxCell>
@@ -399,6 +404,15 @@
           <mxGeometry x="459.9999999999998" y="3302.99962962963" as="geometry">
             <mxPoint x="99" y="61" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JG0KWMFdaKMmzDdm7brY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JG0KWMFdaKMmzDdm7brY-18" target="JG0KWMFdaKMmzDdm7brY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG0KWMFdaKMmzDdm7brY-18" value="Spectral Analyst Tool" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;arcSize=12;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="2742.5" width="173" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JG0KWMFdaKMmzDdm7brY-20" value="Output report" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;rounded=1;arcSize=12;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="636.5" y="2863" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
